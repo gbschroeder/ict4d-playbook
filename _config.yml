@@ -90,8 +90,8 @@ meta:
           slug: 'editing'
         - title: 'Adding a page'
           slug: 'adding'
-        - title: 'Markdown examples'
-          slug: 'markdown-examples'
+        - title: 'Writing in Markdown'
+          slug: 'writing-in-markdown'
 
 defaults:
   -

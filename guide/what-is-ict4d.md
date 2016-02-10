@@ -1,7 +1,5 @@
 ---
 title: What is ICT4D?
-authors:
-  - Gabriel Krieshok
 ---
 
 > Technology is an amplifier of human intent
