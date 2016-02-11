@@ -116,7 +116,7 @@ prose:
     favicon.ico,
     feed.xml,
     index.html,
-    _includes/,
+    _includes,
     /_layouts/.*,
     _sass/.*,
     /css/.*,
