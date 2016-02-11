@@ -99,6 +99,16 @@ defaults:
       path: ""
     values:
       layout: post
+      edit: true
 collections:
   volunteer-projects:
     output: true
+
+prose:
+  ignore:
+    ['_config.yml',
+    apple-touch-icon.png]
+
+
+
+
