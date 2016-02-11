@@ -107,8 +107,24 @@ collections:
 prose:
   ignore:
     ['_config.yml',
-    apple-touch-icon.png]
-
-
-
+    apple-touch-icon.png,
+    .gitignore,
+    404.html,
+    CNAME,
+    Gemfile,
+    Gemfile.lock,
+    favicon.ico,
+    feed.xml,
+    index.html,
+    /_includes/.*,
+    /_layouts/.*,
+    _sass/.*,
+    /css/.*,
+    /disclaimer/.*,
+    /dislcaimer/.*,
+    /epub/.*,
+    /img/.*,
+    /js/.*,
+    /posts/.*,
+    /testing/.*]
 
