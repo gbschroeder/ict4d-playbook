@@ -3,7 +3,8 @@ title: The Peace Corps ICT4D Playbook
 short_title: ICT4D Playbook
 description: |
     Volunteers using information and communication technologies for development.
-baseurl: http://playbook.peacecorpsict4d.org
+url: http://playbook.peacecorpsict4d.org
+baseurl: ''
 github_username:  peacecorps
 github_repo:  ict4d-playbook
 
