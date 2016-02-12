@@ -1504,157 +1504,157 @@ html.mm-background .mm-page,
   }
 }
 
-.docs {
-  .contributing {
+
+.contributing {
+  
+  ul.tools {
+    @include outer-container;
+    padding-left:0;
+    margin-top:$base-spacing * 2;
+    margin-bottom:$base-spacing * 2;
     
-    ul.tools {
-      @include outer-container;
-      padding-left:0;
-      margin-top:$base-spacing * 2;
-      margin-bottom:$base-spacing * 2;
+    li {
+      @include span-columns(4);
+      text-align:center;
+      position:relative;
       
-      li {
-        @include span-columns(4);
-        text-align:center;
-        position:relative;
+      a {
+        font-family:$sans-serif;
+        color:$base-font-color;
         
-        a {
-          font-family:$sans-serif;
-          color:$base-font-color;
+        @include media($medium-screen) {
+          font-size:rem(22);
+          margin-left:30px;
+          position:relative;
+        }
+        
+        @include media($large-screen) {
+          font-size:rem(26);
+          margin-left:40px;
+        }
+        
+        &:before {
+          @include icon-font();
+          margin-right:5px;
           
           @include media($medium-screen) {
-            font-size:rem(22);
-            margin-left:30px;
-            position:relative;
+            font-size:rem(28);
+            position:absolute;
+            left:-35px;
+            top:-1px;
           }
           
           @include media($large-screen) {
-            font-size:rem(26);
-            margin-left:40px;
-          }
-          
-          &:before {
-            @include icon-font();
-            margin-right:5px;
-            
-            @include media($medium-screen) {
-              font-size:rem(28);
-              position:absolute;
-              left:-35px;
-              top:-1px;
-            }
-            
-            @include media($large-screen) {
-              font-size:rem(34);
-              left:-40px;
-              top:-2px;
-            }
+            font-size:rem(34);
+            left:-40px;
+            top:-2px;
           }
         }
-        &.github {
-          a:before {
-            content: "\f00a";
-          }
+      }
+      &.github {
+        a:before {
+          content: "\f00a";
         }
-        &.jekyll {
-          a:before {
-            content: "\e600";
-          }
+      }
+      &.jekyll {
+        a:before {
+          content: "\e600";
         }
-        &.markdown {
-          a:before {
-            content: "\f0c9";
-          }
+      }
+      &.markdown {
+        a:before {
+          content: "\f0c9";
+        }
+      }
+      
+      @include media($medium-screen) {
+        &:after {
+          content:'+';
+          position:absolute;
+          right:- $base-spacing / 2;
+          font-weight:bold;
+          color:rgba($base-font-color, .5);
         }
         
-        @include media($medium-screen) {
-          &:after {
-            content:'+';
-            position:absolute;
-            right:- $base-spacing / 2;
-            font-weight:bold;
-            color:rgba($base-font-color, .5);
-          }
-          
-          &:last-child:after {
-            display:none;
-          }
+        &:last-child:after {
+          display:none;
         }
-      }
-    }
-  }
-  
-  .github {
-    font-family:Helvetica,arial,freesans,clean,sans-serif;
-    
-    .button, .minibutton {
-      -moz-user-select: none;
-      background-color: #eee;
-      background-image: linear-gradient(#fcfcfc, #eee);
-      background-repeat: repeat-x;
-      border: 1px solid #d5d5d5;
-      border-radius: 3px;
-      color: #333;
-      cursor: pointer;
-      display: inline-block;
-      font-size: 13px;
-      font-weight: bold;
-      padding: 7px 12px;
-      position: relative;
-      text-shadow: 0 1px 0 rgba(255, 255, 255, 0.9);
-      vertical-align: middle;
-      white-space: nowrap;
-    }
-
-    .minibutton {
-      line-height: 24px;
-      padding: 0 10px;
-    }
-    
-    .button i, .minibutton i {
-      font-style: normal;
-      font-weight: 500;
-      opacity: 0.6;
-    }
-
-    .select-menu-button:after {
-      border-color: $base-font-color transparent transparent;
-      border-image: none;
-      border-style: solid;
-      border-width: 4px;
-      content: "";
-      display: inline-block;
-      height: 0;
-      vertical-align: -2px;
-      width: 0;
-    }
-    
-    .range-editor-icon {
-      color: #666;
-      display: inline-block;
-      vertical-align:middle;
-      margin-right:5px;
-    }
-    
-    .range-cross-repo-pair {
-      display: inline-block;
-    }
-    
-    .range-editor .range {
-      display: inline-block;
-      
-      .select-menu {
-        display: inline-block;
-      }
-      
-      .dots {
-        color: #999;
-        font-size: 16px;
-        margin: 0 4px;
       }
     }
   }
 }
+
+.github {
+  font-family:Helvetica,arial,freesans,clean,sans-serif;
+  
+  .button, .minibutton {
+    -moz-user-select: none;
+    background-color: #eee;
+    background-image: linear-gradient(#fcfcfc, #eee);
+    background-repeat: repeat-x;
+    border: 1px solid #d5d5d5;
+    border-radius: 3px;
+    color: #333;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 13px;
+    font-weight: bold;
+    padding: 7px 12px;
+    position: relative;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.9);
+    vertical-align: middle;
+    white-space: nowrap;
+  }
+
+  .minibutton {
+    line-height: 24px;
+    padding: 0 10px;
+  }
+  
+  .button i, .minibutton i {
+    font-style: normal;
+    font-weight: 500;
+    opacity: 0.6;
+  }
+
+  .select-menu-button:after {
+    border-color: $base-font-color transparent transparent;
+    border-image: none;
+    border-style: solid;
+    border-width: 4px;
+    content: "";
+    display: inline-block;
+    height: 0;
+    vertical-align: -2px;
+    width: 0;
+  }
+  
+  .range-editor-icon {
+    color: #666;
+    display: inline-block;
+    vertical-align:middle;
+    margin-right:5px;
+  }
+  
+  .range-cross-repo-pair {
+    display: inline-block;
+  }
+  
+  .range-editor .range {
+    display: inline-block;
+    
+    .select-menu {
+      display: inline-block;
+    }
+    
+    .dots {
+      color: #999;
+      font-size: 16px;
+      margin: 0 4px;
+    }
+  }
+}
+
 
 
 .stories {
