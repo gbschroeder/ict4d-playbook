@@ -1896,6 +1896,11 @@ section2 {
   @include circle(200px, #999);
 }
 
-
+.image img {
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+    @include clearfix;
+}
 
 

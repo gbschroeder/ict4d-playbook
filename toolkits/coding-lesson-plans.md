@@ -1,5 +1,5 @@
 ---
-title: Computer Programming Lesson Plans
+title: Coding Lesson Plans
 ---
 
 
