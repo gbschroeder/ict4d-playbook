@@ -1,5 +1,5 @@
 ---
-title: Starting an ICT4D Committee Reader
+title: Starting an ICT4D Committee
 ---
 
 This toolkit will help Peace Corps Volunteers in either creating an ICT4D (or T4D) committee from scratch or in keeping one up and running. Obviously it's not definitive, and we'll always need your help!

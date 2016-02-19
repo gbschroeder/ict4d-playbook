@@ -1380,7 +1380,8 @@ html.mm-background .mm-page,
         left:50%;
         bottom:0;
         margin-left:-658px;
-        @include retina-image('../img/home-banner', auto 215px, png);
+        background-image: url(../img/chalk.svg);
+        // @include retina-image('../img/home-banner', auto 215px, png);
         opacity:0.8;
         background-repeat:no-repeat;
         background-position:center bottom;
