@@ -6,6 +6,7 @@ wide: true
 {% assign section = page.section %}
 
 {% assign section_base = site.baseurl | append: section | append: '/' %}
+{% if page.feature %}<div class="feature"><img src="{{ page.feature }}" height="50px"></div>{% endif %}
 
 <div class="post">
   <article class="post-content{% if page.lead %} lead-paragraph{% endif %}">

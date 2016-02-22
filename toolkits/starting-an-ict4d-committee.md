@@ -2,19 +2,23 @@
 title: Starting an ICT4D Committee
 ---
 
-This toolkit will help Peace Corps Volunteers in either creating an ICT4D (or T4D) committee from scratch or in keeping one up and running. Obviously it's not definitive, and we'll always need your help!
+First off--welcome to the future. :smiley:
+
+I believe that technology can improve peoples' lives. Not automatically, not overnight, and not without thoughtful effort. But it has happened, does happen, and with your help, will happen time and time again.
+
+By reading this, you're part of that story now -- and we need all of the help we can get!
 
 
-	
 ___
 
 
 
 ## Table of Contents
-- [Current committees](#current-committees)
+- [What is an ICT4D committee?](#what-is-an-ict4d-committee?)
 - [Why ICT4D committees?](#why-ict4d-committees?)
+	- [Current committees](#current-committees)
 - [The roles of an ICT4D committee in Peace Corps](#the-roles-of-an-ict4d-committee-in-peace-corps)
-- [Are we a committee or a working group](#are-we-a-committee-or-a-working-group)
+- [What do we call ourselves](#what-do-we-call-ourselves)
 - [Scoping out your mission](#scoping-out-your-mission)
 - [Holding meetings](#holding-meetings)
 - [Member](#members)
@@ -22,28 +26,38 @@ ___
 - [Elections](#elections)
 
 
-
 ___
 
 
 
-First off--welcome to the future. :smiley:
 
-I believe that technology can improve peoples' lives. Not automatically, not overnight, and not without thoughtful effort, but it has happened, does happen, and with your help, will happen time and time again.
+## What is an ICT4D committee?
 
-By reading this, you're part of that story now -- and we need all of the help we can get!
-
-## Current committees
+Volunteers are able to share information, collaborate, and work as a team to help all Volunteers in their post (and more and more at the global level) by forming working groups or committees that revolve around a given topic, such as Gender Equality, Volunteer Advisory Councils, Youth as Resources, etc.
 
 
 
 ## Why ICT4D committees?
 
-> "Volunteers are going to do it anyway—why do you need a committee for it?"
+Volunteers form ICT4D (or T4D)[^ict4d] committees in order to meet a specific need among their fellow Volunteers by pooling together the resources and Volunteer support of those are more knowleadge and interested in the data, information, communications, and technology aspects of their service.
 
-First, you'll want to make sure you've asked yourselves this question and that you have a response to it. 'Volunteer Committees' in Peace Corps have a long and storied tradition, and you'll find varying levels of support from staff and fellow Volunteers—everything from full-throated enthusiasm to downright skepticism. Know your stakeholders, and know your audience. Maybe what you need isn't so much a Committee as it is a Whatsapp or Facebook group.
+These committees can exist as very formal and organized committees with staff input, all the way to just an informal group of Volunteers communicating digitally on these topics. What they all have in common is the recognition that projects and activities can be made more effective and impactful by appropriately leveraging ICTs.
 
-Yet in the right circumstances, having a core group of Volunteers on hand to help support other Volunteers, to fill the gaps of technical and technological skill sets and to make communications simpler pays incredible dividends to all Volunteers in a country (and by extension around the world.)
+Under the right circumstances, having a core group of Volunteers on hand to help support other Volunteers, to fill the gaps of technical and technological skill sets and to make communications simpler pays incredible dividends to all Volunteers in a country (and by extension around the world.)
+
+
+
+### Current committees
+
+Here are a list of current committees in Peace Corps -- if you would like yours to be added, just [email me](mailto:gkrieshok@peacecorps.gov)
+
+- Thailand (T4D Committee)
+- Botswana
+- Ghana (Think Tank Committee)
+- Georgia (T4D Committee)
+- Ethiopia (T4D Committee)
+- Nicaragua
+- Ethiopia
 
 
 
@@ -92,13 +106,16 @@ Volunteers respond most efficiently and effectively to the challenges unique to 
 Finally, the ICT4D Committee works to increase resources and areas where volunteers can go to search for information concerning previously completed projects. 
 
 
-## Are we a committee or a working group
+
+## What do we call ourselves?
 
 ... or tSquad or a Think Tank...or what?!
 
 This is for you to decide! I'm sure there's someone in Peace Corps/Washington who would love it if all groups had the same name--but that's not this specialist. I tend to think of the names groups gives themselves as extensions of the groups themselves, so if it's advantageous and fun to be called a 'squad', then go for it.
 
  If you find it useful to fit into the country's dichotomy of names (you have a GENEQ Committee, a Let Girls Learn Committee, etc.) and there might be travel and funding implications, then best stick with that convention.
+
+
 
 ## Scoping out your mission
 
@@ -204,7 +221,7 @@ Elections for Committee positions will occur once a year at the All-Volunteer co
 
 
 
-
+[^ict4d]: Check out the [ICT4D versus T4D](/guide/faq/#ict4d-versust4d]) to learn more about the various naming conventions, and why we've chosen to use 'ICT4D' as the official acronym to denote work in this space.
 
 
 

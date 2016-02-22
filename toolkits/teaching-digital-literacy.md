@@ -1,10 +1,15 @@
 ---
-title: Digital Literacy Lesson Plans
+title: Teaching Digital Literacy
 ---
 
+As one of the cornerstone activities of digital literacy...
+
+https://teach.mozilla.org/activities
 
 
-## Digital literacy basics
+
+
+## Other digital literacy courses
 
 - [Digital Literacy.gov](http://www.digitalliteracy.gov/) -- Free tutorials, skills assessments, and other resources for educators and users curated from organizations around the country.
 
@@ -24,11 +29,7 @@ title: Digital Literacy Lesson Plans
 
 
 
-# Skills and Lessons
-
-
-
-### Typing skills
+## Typing skills
 
 - [Powertyping](http://www.powertyping.com/) -- Full lessons and exercises to learn touch typing or improve your typing skills. Include many entertaining typing games, tests an practice drills.
 

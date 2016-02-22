@@ -20,7 +20,9 @@ ___
 ## Resources and Toolkits
 
 - [Technology for M&E Resources](/technology-for-monitoring-and-evaluation/resources/)
-- [Starting a mobile data collection project](/toolkits/starting-mobile-data-collection/)
+- [Field Guide to Monitoring & Evaluation](/toolkits/field-guide-to-monitoring-and-evaluation/)
+- [Mobile data questions](/toolkits/mobile-data-questions/)
+- [Mobile data platforms and apps](/toolkits/mobile-data-platforms-and-apps/)
 
 
 

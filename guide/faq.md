@@ -4,7 +4,9 @@ title: Frequently Asked Questions
 
 This is an ongoing and constantly-refreshed Q&A with post staff around the best ways that I can help support efforts around T4D for all posts. Please feel free to comment, edit, or ask new questions!
 
-## What is T4D or ICT4D or ICT?
+
+
+## ICT4D versus T4D?
 
 
 
