@@ -8,7 +8,6 @@ Peace Corps Volunteers should be able to quickly browse, search for, and find re
 
 
 
-
 ## Five ways to use ICT4D to maximize your Volunteer service
 
 This page is a quick-start guide to tools and resources that might be most relevant to Volunteers starting out in the Playbook but also for orienting oneself around ICT4D more broadly.

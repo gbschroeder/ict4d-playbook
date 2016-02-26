@@ -7,7 +7,7 @@ Thanks for helping to develop the Peace Corps ICT4D Playbook! This guide couldn'
 
 If you want to just dive right in and start editing -- by all means! Absolutely anyone can make changes (or submit 'pull request' as changes!) -- it works very much like a wiki in that respect. Check out the [Editing](/editing/) page to learn how to sign up for a Github account and submit a [ticket for a change](https://github.com/peacecorps/ict4d-playbook/issues/new), edit the content itself, or edit the site itself in a few differents ways.
 
-If you simply can't wait -- or just want to dip your toes into the waters of Peace Corps' ICT4D Initiatve -- then shoot us a tweet at [@peacecorpsict4d](https://twitter.com/peacecorpsict4d) or just send [an email](mailto:t4d@peacecorps.gov) and it'll be handled with the utmost care.
+If you simply can't wait -- or just want to dip your toes into the waters of Peace Corps' ICT4D Initiatve -- then shoot us a tweet at [@peacecorpsict4d](https://twitter.com/peacecorpsict4d) or just send [an email](mailto:ict4d@peacecorps.gov) and it'll be handled with the utmost care.
 
 Speaking of 'we' -- check out the [Community](/community/) page for more links to folks in Peace Corps ICT4D -- it's not just one office or unit sitting behind a desk in Washington, D.C. -- it's all Volunteers, staff, counterparts, and humans who want to help make the world a better place by leveraging technology!
 

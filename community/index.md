@@ -6,7 +6,7 @@ title: Community
 ## Contact the Peace Corps ICT4D Initiative team
 
 - [Peace Corps ICT4D Twitter](https://twitter.com/peacecorpsict4d)
-- [Peace Corps ICT4D official email](mailto:t4d@peacecorps.gov)
+- [Peace Corps ICT4D official email](mailto:ict4d@peacecorps.gov)
 - [Peace Corps ICT4D program specialist email (Gabriel Krieshok)](mailto:gkrieshok@peacecorps.gov)
 
 

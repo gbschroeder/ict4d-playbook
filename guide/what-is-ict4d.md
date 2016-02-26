@@ -34,11 +34,11 @@ At the end of the day, Volunteers have committed themselves to serve for two yea
 
 A megaphone allows someone to speak with a louder voice. ICTs can help whole communities speak with a louder voice, and to have a wider reach and broader impact. It can also how Volunteer activities to reach new groups of beneficiaries and underserved populations.
 
-#### 4. Help people to use information to manage better.
+#### 3. Help people to use information to manage better.
 
 Access to tools and technologies is not enough by itself—ICTs can also help to improve the management of projects in and of themselves: everything from project design, monitoring & evaluation, assessment, and learning. ICTs increase efficiency so as to conserve resources.
 
-#### 5. Leverage experience from one project, sector, and Volunteer to the next more effectively.
+#### 4. Leverage experience from one project, sector, and Volunteer to the next more effectively.
 
 Volunteers are more effective when they learn from each other, from their predecessors, and when they are teachers to the next group of Volunteers.
 

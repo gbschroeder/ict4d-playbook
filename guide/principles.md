@@ -6,6 +6,11 @@ In earlier versions of this playbook, the ‘plays’ (now principles) were amas
 
 With the creation of the [Digital Principles](http://digitalprinciples.org/) in 2015, I have opted to adapt their excellent framework and then to provide descriptions more relevant to Peace Corps Volunteers below the principle.
 
+Inside, you'll find guidance on how to think about things like designing with the user in mind, sustainability, using open standards and systems, addressing privacy, and more. You can learn more about Peace Corps' take on the Principles in the [Playbook Guide](/guide/principles/)
+
+[![Principles for Digital Developmnet](/img/principles-cover.png)](http://digitalprinciples.org/)
+{:class="image" }
+
 #### 1. Design with the user
 
 As Peace Corps Volunteers, you must design and build *with* your communities and counterparts as opposed to *for* them. It’s not enough to simply start a project, program, club, or activity simply for the sake of doing something. Rather, a Volunteer should adopt the needs and priorities of the community and contribute to help *them* meet *their* goals.
