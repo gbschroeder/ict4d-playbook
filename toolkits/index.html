@@ -1,0 +1,66 @@
+---
+layout: default
+wide: true
+title: Toolkits
+filters: true
+section: toolkits-landing
+js:
+ - vendor/isotope.pkgd.min
+ - apps
+---
+
+<div class="app resources">
+
+  <h1>{{ page.title }}</h1>
+  <div class="intro">
+  <p>In this section of the Playbook you'll find toolkits for particular activities and areas related to ICT4D.</p><br />
+  <p>Filter toolkits by <strong>area</strong> or <strong>tags</strong> using the menu to the left.</p><br />
+  <p>Interested in making a toolkit yourself or contributing to one? Simply click on the 'edit this page' menu on the right or follow the <a href="/contribute/">Contribute</a> guide!</p>
+  </div>
+
+  <!-- start resource topics section -->
+  <section class="apps">
+  
+    <div class="area overviews">
+    {% for prob in site.data.areas %}
+      <div class="overview area-{{ prob.area | downcase | replace:' ','' }}">
+          <h2><strong>area:</strong> {{ prob.area }}</h2>
+          {{ prob.p_overview | markdownify }}
+          <h3>Solutions</h3>
+      </div>
+    {% endfor %}
+    </div>
+
+    <header>
+      <h2></h2>
+    </header>
+    <ul>
+    {% for page in site.pages %}
+      {% if page.section == 'toolkits' %}
+
+      {% capture areas %}{% if page.area %}{{ page.area }}{% endif %}{% endcapture %}
+      {% assign areasArray = areas | split: "," %}
+
+      {% capture tags %}{% if page.tags %}{{ page.tags }}{% endif %}{% endcapture %}
+      {% assign tagsArray = tags | split: "," %}
+
+      <li class="{% if areasArray %}{% for pr in areasArray %}selector-area-{{ pr | downcase | replace:' ','' }} {% endfor %}{% endif %}{% if tagsArray %}{% for ta in tagsArray %}selector-tag-{{ ta | downcase | replace:' ','' }} {% endfor %}{% endif %}{% if themesArray %}{% for th in themesArray %}selector-theme-{{ th | downcase | replace:' ','' }} {% endfor %}{% endif %}">
+        <a href="{{ page.path | split: '.' | first | replace:'index',''| split: '/' | last }}"{% if page.image %} style="background-image:url({{ page.image }}); background-size: auto 100px; background-repeat: no-repeat; background-position: top;" {% endif %}>
+          <h3>{{ page.title }}{% if page.description %}<span>{{ page.description }}</span>{% endif %}</h3>
+          {% if areasArray %}
+          {% for pr in areasArray %}
+          <span class="tag">
+              {{ pr }}
+          </span>
+          {% endfor %}
+          {% endif %}
+        </a>
+      </li>
+      {% endif %}
+    {% endfor %}
+    </ul>
+  </section>
+  <!-- end resource topics section -->
+
+</div>
+{% include page-tools.html %}

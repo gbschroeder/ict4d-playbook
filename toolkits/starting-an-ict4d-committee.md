@@ -1,33 +1,25 @@
 ---
-title: Starting an ICT4D Committee
+title: Starting an ICT4D committee
+description: How to manage and/or start an ICT4D committee at post.
+section: toolkits
+layout: apps
+image: /img/logo.svg
+tags: Committee
+area: General
 ---
 
-First off--welcome to the future. :smiley:
 
-I believe that technology can improve peoples' lives. Not automatically, not overnight, and not without thoughtful effort. But it has happened, does happen, and with your help, will happen time and time again.
-
-By reading this, you're part of that story now -- and we need all of the help we can get!
 
 
 ___
 
 
 
-## Table of Contents
-- [What is an ICT4D committee?](#what-is-an-ict4d-committee?)
-- [Why ICT4D committees?](#why-ict4d-committees?)
-	- [Current committees](#current-committees)
-- [The roles of an ICT4D committee in Peace Corps](#the-roles-of-an-ict4d-committee-in-peace-corps)
-- [What do we call ourselves](#what-do-we-call-ourselves)
-- [Scoping out your mission](#scoping-out-your-mission)
-- [Holding meetings](#holding-meetings)
-- [Member](#members)
-- [Leadership](#leadership)
-- [Elections](#elections)
+## Introduction
 
+Volunteers form ICT4D (or T4D)[^ict4d] committees in order to meet a specific need among their fellow Volunteers by pooling together the resources and Volunteer support of those are more knowleadge and interested in the data, information, communications, and technology aspects of their service.
 
-___
-
+A tech or ICT4D committee should be formed at every post. This committee consists of at the very least two elected Volunteers from each volunteer group.
 
 
 
@@ -39,11 +31,20 @@ Volunteers are able to share information, collaborate, and work as a team to hel
 
 ## Why ICT4D committees?
 
-Volunteers form ICT4D (or T4D)[^ict4d] committees in order to meet a specific need among their fellow Volunteers by pooling together the resources and Volunteer support of those are more knowleadge and interested in the data, information, communications, and technology aspects of their service.
+The purpose of an ICT4D committee is to address post-specific ICT challenges and opportunities.  
 
 These committees can exist as very formal and organized committees with staff input, all the way to just an informal group of Volunteers communicating digitally on these topics. What they all have in common is the recognition that projects and activities can be made more effective and impactful by appropriately leveraging ICTs.
 
 Under the right circumstances, having a core group of Volunteers on hand to help support other Volunteers, to fill the gaps of technical and technological skill sets and to make communications simpler pays incredible dividends to all Volunteers in a country (and by extension around the world.)
+
+<div class="note">
+
+###### Swaziland Computer Society
+
+The Swaziland Computer Society started in 2010 and is an excellent example of a tech-community created that allows collaboration between country residents and PCVs in an unprecedented fashion. Incredible partnerships, learning opportunities, and networking have benefitted over 1000 members since its creation. They even have a [Facebook Group](http://www.facebook.com/groups/swazi.computers) where you can learn more.
+
+By partnering with [NetSquared](http://netsquared.org) these tech communities enable a whole new level of global participation for the members, with an incredible reach into the world of technology aimed at non-profits and the developing world. NetSquared is an outreach program created by Tech Soup, the largest software donation service designed to assist non-profits around the world. Many organizations that PCVs work with could benefit from knowledge and access to these groups.
+</div>
 
 
 
@@ -65,7 +66,13 @@ Here are a list of current committees in Peace Corps -- if you would like yours 
 
 These are just to get you started. As we know, every single Peace Corps region, posting, Volunteer community, and host-country community are unique, and present their individual challenges requiring their own tailored solutions.
 
-In forming a working group or committee you (either as an individual or as a group) will want to think about the perspectives of Peace Corps staff, where your fellow Volunteers are at (skill sets, experiences, enthusiasm), and what has been tried before. If a committee existed years ago on this issue -- what happened, why is it no longer around, what could you do differently? OK, trigger warnings aside, here are the six roles that seem to pop up:
+In forming a working group or committee you (either as an individual or as a group) will want to think about the perspectives of Peace Corps staff, where your fellow Volunteers are at (skill sets, experiences, enthusiasm), and what has been tried before.
+
+Additionally, it's possible that a committee existed years ago on this issue -- what happened, why is it no longer around, what could you do differently?
+
+Finally, some posts have a designated staff member to liaise with the ICT4D committee, but even if you don’t, it’s a good idea to build relationships and collaborative initiatives with post staff.
+
+OK, trigger warnings aside, here are the roles that seem to pop up:
 
 ### 1. ICT education for communities
 
@@ -73,7 +80,7 @@ Basic computer education, digital literacy, advanced computer classes, programmi
 
 ### 2. IT support for Volunteers
 
-Computer training, virus protection, VRF support, etc.
+Computer training, virus protection, VRF support, etc. This can also include knowledge sharing between post staff and Volunteers. Really folded into all of these points is an appeal to preserving knowledge, sharing best practices among Volunteers, and essentially not recreating the wheel.
 
 ### 3. Communications for Volunteers
 
@@ -93,7 +100,7 @@ Related to social media, committees can think more broadly about all types of me
 
 STEM-related activities, GLOW camps, Camp TechKobwe, Uganda's TechCamp, etc...
 
-More broadly, ICT4D committees can assist communities, counterparts, co-operatives, and others at maintaining appropriate technology acquired by host country nationals.
+More broadly, ICT4D committees can assist communities, counterparts, co-operatives, and others at maintaining appropriate technology acquired by host country nationals. 
 
 ICT4D does not necessarily have to limit itself to high-tech activities, such as computer labs and mobile phones. We can help with guidance and support for all ICTs and ecosystems including libraries, makerspaces, mechanical tools, etc. 
 
@@ -103,8 +110,7 @@ GIS and Mapping, hardware and appropriate technology, design thinking or user-ce
 
 Volunteers respond most efficiently and effectively to the challenges unique to their site and communities. They might be able to articulate the challenge quite well, but not with the realm of possible solutions and ideas for addressing that challenge -- where the ICT4D committee might be able to shed assist and point to resources, personnel, examples, and approaches. 
 
-Finally, the ICT4D Committee works to increase resources and areas where volunteers can go to search for information concerning previously completed projects. 
-
+Finally, the ICT4D Committee works to increase resources and areas where volunteers can go to search for information concerning previously completed projects.
 
 
 ## What do we call ourselves?
@@ -140,7 +146,11 @@ I have seen these successful mission statements from other Committees:
 
 ## Holding meetings
 
-Again -- no magic solution here. These are some examples:
+The most common tools that Volunteers use to communicate with one another include texting, Facebook groups, and pairing face-to-face meetings with existing VAC meetups and all-Volunteer conferences.
+
+One of my favorite platforms to use for Volunteers is [Slack](https://slack.com) -- it's a team messaging app with good free options, and allows you to be mobile and work across teams while holding one or several manageable conversations around '#channels'.
+
+These are some specific examples I have come across as well in terms of scope/structure of meetings:
 
 - "Meetings will be held on a TBA basis at least three times a year. Elections will be held at the All-Volunteer Conference. Each meeting should have these parts:
 	- PCVs to share accomplished work, discuss relevant updates, and determine agenda items for the next meeting.

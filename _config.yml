@@ -35,23 +35,17 @@ meta:
           slug: 'why-ict4d'
         - title: 'What is ICT4D?'
           slug: 'what-is-ict4d'
-        - title: 'Strategy'
-          slug: 'strategy'
         - title: 'Principles'
           slug: 'principles'
-        - title: 'Initiatives'
-          slug: 'initiatives'
+        - title: 'Approach'
+          slug: 'approach'
         - title: 'ICT4D for Volunteers'
           slug: 'ict4d-for-volunteers'
         - title: 'ICT4D for Staff'
           slug: 'ict4d-for-staff'
-        # - title: 'FAQ'
-        #   slug: 'faq'
-        # - title: 'History'
-        #   slug: 'history'
-        # - title: 'Glossary'
-        #   slug: 'glossary'
-  program-areas:
+        - title: 'Glossary'
+          slug: 'glossary'
+  anchor-areas:
     toc:
       chapters:
         - title: 'Digital Literacy'
@@ -72,16 +66,8 @@ meta:
           slug: 'radio-and-mass-media'
         - title: 'Libraries and Maker Spaces'
           slug: 'libraries-and-maker-spaces'
-        - title: 'Climate Change Education'
-          slug: 'climate-change-education'
-        - title: 'mHealth'
-          slug: 'mhealth'
         - title: 'Media Production'
           slug: 'media-production'
-        - title: 'Youth Workforce Employment'
-          slug: 'youth-workforce-employment'
-        - title: 'Tools and Technologies'
-          slug: 'tools-and-technologies'
   contribute:
     toc:
       chapters:

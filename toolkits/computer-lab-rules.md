@@ -1,32 +1,41 @@
 ---
-title: Computer Lab Rules
+title: Computer lab rules
+description: Work with staff, teachers, or computer lab facilitators to develop computer lab rules and procedures for students and youth.
+section: toolkits
+layout: apps
+image: /img/digital-literacy-icon.svg
+tags: Computer Lab, ICT
+area: Digital Literacy
 ---
 
-## General
+This toolkit should help you get started for developing rules and policies for computer labs that you may begin or assist in. These are merely suggestions, and you'll want to adapt items to your local environment and for your students and teachers.
 
-All computer users (students, teachers, and others) are expected to be responsible for their own behaviour on the computers, including the Internet. Users are reminded that their actions can represent the entire school or computer center. This includes materials they choose to access, language they use, ideas they express, and other actions which they take.
+### General Suggested Rules
 
-School computer labs are a place of learning and study.
+- All computer users (students, teachers, and others) are expected to be responsible for their own behaviour on the computers, including the Internet. Users are reminded that their actions can represent the entire school or computer center. This includes materials they choose to access, language they use, ideas they express, and other actions which they take.
 
-Disruptive noise or behavior is disrespectful to other students using the lab. So that everyone can concentrate, noise must be kept to a minimum. Please do not let your phone ring, have conversations, or listen to music without headphones in the lab.
+- School computer labs are a place of learning and study.
 
-This computer lab is for student and teacher use only
+- Disruptive noise or behavior is disrespectful to other students using the lab. So that everyone can concentrate, noise must be kept to a minimum. Please do not let your phone ring, have conversations, or listen to music without headphones in the lab.
 
-No food is permitted in the computer lab. Drinks are permitted only if they have a re-sealable lid and are placed on the floor.
+- This computer lab is for student and teacher use only
 
-Unauthorized copying of software is illegal and not permitted.
+- No food is permitted in the computer lab. Drinks are permitted only if they have a re-sealable lid and are placed on the floor.
 
-Smoking, drinking, or eating in the lab can damage the equipment and attract insects or rodents.
+- Unauthorized copying of software is illegal and not permitted.
 
-Please keep the lab neat; clean up any messes, use rubbish bins, and leave equipment and furniture properly arranged.
+- Smoking, drinking, or eating in the lab can damage the equipment and attract insects or rodents.
 
-Use of computer labs is a privilege. Any person not following the above rules may be denied use of the lab and access to computing resources.
+- Please keep the lab neat; clean up any messes, use rubbish bins, and leave equipment and furniture properly arranged.
+
+- Use of computer labs is a privilege. Any person not following the above rules may be denied use of the lab and access to computing resources.
+
+- Do not try to repair equipment yourself. If you encounter problems with equipment, you should report this to the lab supervisor.
 
 
+### Equal Access
 
-## Equal Access
-
-It is common that there are not enough computers for the number of people who want to use them (more users than computers). In order to ensure that everyone has some opportunity to use the computers, please limit computer use to one hour, if there are people waiting.
+It is common that there are not enough computers for the number of people who want to use them (more users than computers). In order to ensure that everyone has some opportunity to use the computers, you may want to have users limit computer use to a certain amount of time, for example one hour, if there are people waiting.
 
 In order to manage this process, please observe the following:
 
@@ -37,19 +46,11 @@ In order to manage this process, please observe the following:
 5. If no one is waiting, you may use the computer more than one hour.
 6. When you are asked to leave, you may add your name to the list again if you want to continue using the computer.
 
-Please be respectful of your fellow students and help ensure that everyone has a fair chance to use the computers.
 
 
+### Inappropriate Content
 
-## Broken Equipment
-
-Do not try to repair equipment yourself. If you encounter problems with equipment, you should report this to the lab supervisor.
-
-
-
-## Inappropriate Content
-
-Controversial content (e.g. pornography) is not appropriate in a school setting. Users should expect that their browsing history will be recorded, and might be examined by system administrators. For more details, see the Acceptable Use Policy (AUP).
+Controversial content (e.g. pornography) is not appropriate in a school setting. Users should expect that their browsing history will be recorded, and might be examined by system administrators.
 
 Computer users browsing the World Wide Web are expected to avoid offensive materials. Should any user encounter any such material accidentally, they should report the circumstances immediately to an instructor.
 
@@ -57,15 +58,7 @@ Users should note that the internet is available to all kinds of people, and tha
 
 Bandwidth is a limited resource. When throughput is slow, you may be asked to cease high-bandwidth activity (e.g. music downloading).
 
-
-
-## Accounts
-
-Users should not access other people's files unless permission has been given by the file's owner.
-
-Programs may NOT be downloaded and installed from the internet. If you are unsure whether a web page is downloading a program, please ask a lab supervisor. This is for security and uniform lab maintenance.
-
-Personal program files may NOT be installed. This is for licensing and security reasons.
+For more information on how to be safe online and protect your privacy and security on the Internet, check out the [Internet Safety toolkit](/toolkits/internet-safety/).
 
 
 
@@ -73,21 +66,25 @@ ___
 
 
 
+Below is an example of a 'computer use contract' that might be helpful to have students or users agree to when using computer lab equipment.
+
 # Computer Use Contract
 
 In order to use the computer lab and receive a system account (username and password), you must understand and agree to the following:
 
-## General
+### General
 
 All computer users (students, teachers, and others) are expected to be responsible for their own behaviour on the computers, including the Internet. Users are reminded that their actions can represent the entire school or computer center. This includes materials they choose to access, language they use, ideas they express, and other actions which they take.
 
-## Lab Rules
+### Lab Rules
+
 Computer users are expected to adhere to stated lab rules and policies, of which these are a part. Rules are posted in the lab. They may change from time to time; notice will be provided. Users are responsible for being familiar with all rules, including new rules.
 
-## Uncertainty
+### Uncertainty
+
 If you are unsure of what to do, for instance in the case of an error message, a web site offer, a strange e-mail, a hardware malfunction, etc., ask a lab supervisor. It is better to wait and ask, than to take an action which will endanger yourself, the computer, or the network.
 
-## Violations
+### Violations
 
 Violation of any of the above rules may be cause for:
 
@@ -95,32 +92,11 @@ Violation of any of the above rules may be cause for:
 - suspension of computer privileges
 - reporting to the school administration
 
-## Signature
+### Signature
 
 I have read through this agreement and will adhere to the above.
 
 Signed:	 
 Print name:	 
 Date:
-
-
-___
-
-
-# Internet, Mobile Phones, and Texting Safety Tips for Children
-
-1. Do not post personal information online (name, age, birth date, address, telephone number, or school name). This information can be used by others to find out where you and your family live.
-2. Do not post your picture or pictures of your family online – they can be copied or changed or used to find you.
-3. Do not send any inappropriate photo or message by email or text.
-4. Do not post your plans and activities in a chat room or on your personal website.
-5. Do not post entries that make it clear that no one is at your home.
-6. Do not communicate with someone who has made you uncomfortable or afraid. Tell your parents or a trusted adult if someone does.
-7. Do not join online groups or games without talking to your parents or a trusted adult.
-8. Do not meet with someone you met online without first telling your parents or guardian.
-9. Do not post hurtful or inappropriate messages. If someone else posts hurtful or inappropriate messages -- do not respond, but do tell a teacher, parent or other adult.
-10. Do not click on any link that you do not know, and you are not sure is legitimate.
-11. Do not enable any location services without talking to your parents or guardian.
-12. Do remember that people can lie online and say they are something they are not. Someone who says they are a 12-year-old girl could really be an older man looking to harm you.
-13. Do save messages that upset you and show them to your parents.
-
 

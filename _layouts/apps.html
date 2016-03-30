@@ -1,0 +1,84 @@
+---
+layout: default
+wide: true
+edit: true
+---
+
+<!-- {% assign section = page.section %}
+{% assign section_base = site.baseurl | append: section %}
+ -->
+<div class="app post">
+  <div class="post-content">
+    <a href="/{{ section_base }}" class="pre-header">{{ section }}</a>
+    <h1 class="post-title">{{ page.title }}</h1>
+    <span class="activity{% if page.creators %} has-creator{% endif %}">
+    </span>
+    {% if page.description %}
+    <div class="author">{{ page.description }}
+    </div>
+    {% endif %}
+
+  </div>
+  <aside>
+    <dl>
+      {% if page.area %}
+      <dt>Area</dt>
+      <dd>{{ page.area }}</dd>
+      {% endif %}
+      {% if page.tags %}
+      <dt>Tags</dt>
+      <dd>{{ page.tags }}</dd>
+      {% endif %}
+    </dl>
+  </aside>
+  <article class="post-content">
+      {% if page.authors %}
+    <div class="author">Edited by
+      <ul>
+      {% for author in page.authors %}
+        <li>{{ author }}</li>
+      {% endfor %}
+      </ul>
+    </div>
+    {% endif %}
+    {% if page.image %}
+    <div class="image">
+      <a style="background-image:url({{ page.image }}); background-size: auto 200px;" ></a>
+      {% if page.image_attribution %}
+        <span class="attribution">{{ page.image_attribution }}</span>
+      {% endif %}
+    </div>
+    {% endif %}
+
+    {{ content }}
+
+    {% if page.data_used %}
+    <div class="note">
+      <h6>Data Used</h6>
+      {{ page.data_used | markdownify }}
+    </div>
+    {% endif %}
+
+    {% if page.credit %}
+    <p class="credit">
+      Credit: {{ page.credit }}
+    </p>
+    {% endif %}
+
+    {% if page.website %}
+    <a class="website-link" href="{{ page.website }}" rel="external">Go to website</a> &nbsp;
+    {% endif %}
+    {% if page.code %}
+    <a class="source-code-link" href="{{ page.code }}" rel="external">View source code</a>
+    {% endif %}
+    
+    {% if page.data_resource %}
+    <div class="data-resource">
+      Data resource: {{ page.data_resource }}
+    </div>
+    {% endif %}
+  </article>
+
+</div>
+
+{% include page-tools.html %}

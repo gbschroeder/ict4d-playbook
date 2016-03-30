@@ -5,6 +5,8 @@ title: Editing a page
 If you haven’t done so already, the first thing you need to do is head over to [Github](https://github.com/) and create your free account.
 {: class="lead"}
 
+If you're completely new to Github, then check out some of the wonderful resources they've come up with -- I recommend [GitHub Guides](https://guides.github.com/) and [GitHub: The beginner's guide](https://www.pluralsight.com/blog/software-development/github-tutorial).
+
 There are three steps to editing a page. First, you need to locate the page you wish to edit. Then you need to make your edits. Finally, you'll want to submit the changes (submit a 'pull request') and provide some comments on what you've proposed to change.
 
 ## 1: Locate the page

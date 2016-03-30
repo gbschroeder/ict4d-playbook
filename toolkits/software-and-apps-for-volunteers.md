@@ -1,5 +1,11 @@
 ---
 title: Software and Apps for Volunteers
+description: Software and links to download them which includes desktop software (PC, Mac, Linux) and smartphones (iOS and Android)..
+section: toolkits
+layout: apps
+image: /img/logo.svg
+tags: Software, Apps, Tools
+area: General
 authors:
   - Gabriel Krieshok
   - Brian Deyo
@@ -7,16 +13,14 @@ authors:
   - Ellen Hatleberg
 ---
 
-<p class="lead">This toolkit is a list of software and links to download them which includes desktop software (PC, Mac, Linux) and smartphones (iOS and Android). Everything on this list is free (or freemium). </p>
-
-You can find a USB image of all of these software packages paired with valuable content at the <a href="http://peacecorps.github.io/peace-corps-on-a-stick/">Peace Corps On-A-Stick project</a>.
-
-___
-
 
 
 ## Table of Contents
 
+- [Online services](#online-services)
+	- [Content](#content)
+	- [Encryption and Privacy](#encryption-and-privacy)
+	- [Networks](#networks)
 - [Software](#software)
 	- [Antivirus and Malware](#antivirus-and-malware)
 	- [Volunteer Reporting](#volunteer-reporting)
@@ -42,11 +46,43 @@ ___
 	- [Miscellaneous](#miscellaneous)
 	- [Encryption and Security](#encryption-and-security)
 - [Offline Content and Databases](#offline-content-and-databases)
+	- [Free and Open Content](#free-and-open-content)
 
 
 
 
 ___
+
+
+# Online services
+
+## Content
+
+- [Bloop](http://www.bloxp.com/) -- Export any blog and turn it into a downloadable ebook. Save your favorite blog as a unique, readable file.
+
+- [PDF Escape](http://www.pdfescape.com/) -- PDF Editor and Form Filler.
+
+
+
+## Encryption and Privacy
+
+- [Martus](https://martus.org/) -- Encrypted digital platform aimed at humanitarian workers and organizations.
+
+- [The Guardian Project](https://guardianproject.info/) -- The Guardian Project creates easy to use secure apps, open-source software libraries, and customized mobile devices that can be used around the world by any person looking to protect their communications and personal data from unjust intrusion, interception and monitoring
+
+
+
+## Networks
+
+- [Low Bandwidth Tools](http://www.kstoolkit.org/Low+Bandwidth+Tools) -- some of the online interaction tools that work in low or lower bandwidth setting or where people have to use internet mostly through public or internet cafes, or mobile devices.
+
+- [Offliberty](http://offliberty.com/) -- Offliberty lets you access any online content without a permanent Internet connection. Today many websites offer nice content but most are difficult to browse offline. If you have limited access to the Internet you can use Offliberty to browse any content later - being offline.
+
+- [Loband](http://www.loband.org/loband/) -- Website that reduces webpages to the bare bones.
+
+- [OpenBTS](http://openbts.org/) -- OpenBTS.org is an open source software project dedicated to revolutionizing mobile networks by substituting legacy telco protocols and traditionally complex, proprietary hardware systems with Internet Protocol and a flexible software architecture. This architecture is open to innovation by anybody, allowing the development of new applications and services and dramatically simplifying the setting up and operation of a mobile network.
+
+- [Hamms](https://github.com/kevinburke/hamms) -- Hamms is designed to elicit failures in your HTTP Client. Connection failures, malformed response data, slow servers, fat headers, and more!
 
 
 
@@ -397,6 +433,33 @@ For Peace Corps' own offline content (which includes many of the below packages 
 - [RadioLab Podcasts](http://dev.worldpossible.org/cgi/viewmod.pl?module_id=15) -- [Radiolab](http://www.radiolab.org/) is a radio program produced by WNYC, a public radio station in New York City, and broadcast on public radio stations in the United States. The show is nationally syndicated and is available as a podcast.
 
 - [Outernet Content](https://outernet.is/content/) -- Global broadcast data startup that provides free access to content from the web through geostationary and Low Earth Orbit satellites, made available effectively to all parts of the world. Their content schedule is available in [this spreadsheet](https://docs.google.com/spreadsheets/d/1LKpyCXu676Td5yRQr0DSM0Cl4hRflGj_ctPual41sq4/edit#gid=0) with links to raw resources and copyright information.
+
+- [eGranary Digital Library | www.widernet.org](https://www.widernet.org/eGranary/) -- Millions of digital educational resources to institutions lacking adequate Internet access.
+
+- [OLE Nepal's E-Pustakalaya](http://pustakalaya.org/index.php?lang=en) -- E-Pustakalaya is an education-focused digital library containing full-text documents, images, videos and audio files that can be accessed through an intranet or the internet.
+
+- [eTekkatho](http://www.etekkatho.org/) -- Educational resources for the Myanmar academic community.
+
+
+
+## Free and open content
+
+- [Aesop's Fables - Online Collection - 656+ fables -](http://www.aesopfables.com/) -- Offers 655+ of the Aesop fables for free online reading as well as 127 fairy tales of Hans Christian Andersen and the fable of Jean Fontaine (17 and being added to). There are also a couple of L. Frank Baum stories and Dickens', A Christmas Carol. Also available are 37 audio versions.
+
+- [African Storybook](http://www.africanstorybook.org/) -- Open access to picture storybooks in the languages of Africa. For children’s literacy, enjoyment and imagination.
+
+- [ICDL - International Children's Digital Library](http://en.childrenslibrary.org/) -- A Library for the World's Children.
+
+- [Internet Archive](https://archive.org/) -- Non-profit library of millions of free books, movies, software, music, and more.
+
+- [LibriVox](https://librivox.org/) -- Free public domain audiobooks.
+
+- [Open Library](https://openlibrary.org/) -- World's classic literature at your fingertips.
+
+- [Free ebooks by Project Gutenberg - Gutenberg](http://www.gutenberg.org/) -- Project Gutenberg offers over 50,000 free ebooks: choose among free epub books, free kindle books, download them or read them online.
+
+
+
 
 
 

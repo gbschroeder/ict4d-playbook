@@ -1,17 +1,18 @@
 ---
 title: Internet Safety
-description: Resources for Volunteers to teach Internet and computer safety to communities, students, and schools
+description: Resources for Volunteers to teach Internet and computer safety to communities, students, and schools.
+section: toolkits
+layout: apps
+image: /img/glow-camp-cambodia.png
+tags: Digital Literacy, ICT, Safety, Privacy
+area: Digital Literacy
 ---
 
 Peace Corps Volunteers are able to witness first-hand the potential and impact of ICT tools in the learning and education in the communities where they serve. They see their students using mobile phones, computers and laptops, and connecting to the Internet, to social media, and to global messaging platforms. 
 
 But these technologies also carry with them a variety of risks for their users, and this is particularly true for children and students.
 
-<div class="image circle">
-![Cambodia GLOW Camp artwork](/img/glow-camp-cambodia.png)
-</div>
 *Artwork from the GLOW Camp in Cambodia in 2015 (source: [Babels in Cambodia](http://babelsincambodia.blogspot.com/2015/03/camp-glow.html))*
-{: style="text-align: center;"}
 
 
 
@@ -19,29 +20,7 @@ ___
 
 
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Areas related to Internet safety](#areas-related-to-internet-safety)
-- [Ways to help keep children safe on the Internet](#ways-to-help-keep-children-safe-on-the-internet)
-- [Protecting personal and sensitive data](#protecting-personal-and-sensitive-data)
-- [Resources and Links](#resources-and-links)
-	- [Lesson Plans and How-To Guides](#lesson-plans-and-how-to-guides)
-	- [Educational Media](#educational-media)
-	- [Articles about Internet Safety in the developing world](#articles-about-internet-safety-in-the-developing-world)
-	- [Privacy, and data protection](#privacy,-and-data-protection)
-	- [General Internet Safety links](#general-internet-safety-links)
-	- [Acceptable Use Policies](#acceptable-use-policies)
-	- [Social Media](#social-media)
-	- [Reporting and assistance](#reporting-and-assistance)
-
-
-
-___
-
-
-
-## Overview
+# Introduction
 
 Internet safety isn't just about protecting oneself from computer viruses and inappropriate material (though these are certainly a part of it) -- it's about keeping kids safe online in a variety of ways so that they can have positive experiences, they are not exploited, and that their information, identity, and private information is not exposed or stolen.
 
@@ -57,7 +36,9 @@ One great way I have found to think about the work of Peace Corps Volunteers wor
 > "At the same time, the proliferation of mobile phones and Internet cafes mean that young people are increasingly operating in two separate digital worlds -- that of the controlled environment of (for example) a higher regimented school computer lab, where 'digital literacy' often means instruction in basic word processing applications, and the 'anything goes' context of private Internet kiosks and personal mobile phones, where the knowledge, skills and attitudes necessary to navigate through one's 'digital life' are much more difficult to acquire."
 
 
-## Areas related to Internet safety
+### Areas related to Internet safety
+
+
 
 - **Child Abuse Images** -- Falls under larger category of child sexual exploitation.
 - **Cookies** -- Data files saved by web browsers when visiting many websites. The concern is potential for privacy breach.
@@ -73,7 +54,9 @@ One great way I have found to think about the work of Peace Corps Volunteers wor
 - **Viruses** -- A piece of software written to explicitly harm the user or their computer.
 
 
-## Ways to help keep children safe on the Internet
+### Ways to help keep children safe on the Internet
+
+
 
 - **Education** -- Talk to students and children about using the Internet safely, about many of these issues, what they might encounter, where they should go to for assistance, etc.
 - **Parental Controls** -- Enable parental control software on phones, apps, and devices where appropriate.
@@ -83,7 +66,28 @@ One great way I have found to think about the work of Peace Corps Volunteers wor
 - **Virus and malware protection** -- Be sure to update virus protections and definitions regularly. 
 
 
-## Protecting personal and sensitive data
+<div class="note">
+
+###### Internet, Mobile Phones, and Texting Safety Tips for Children
+
+1. Do not post personal information online (name, age, birth date, address, telephone number, or school name). This information can be used by others to find out where you and your family live.
+2. Do not post your picture or pictures of your family online – they can be copied or changed or used to find you.
+3. Do not send any inappropriate photo or message by email or text.
+4. Do not post your plans and activities in a chat room or on your personal website.
+5. Do not post entries that make it clear that no one is at your home.
+6. Do not communicate with someone who has made you uncomfortable or afraid. Tell your parents or a trusted adult if someone does.
+7. Do not join online groups or games without talking to your parents or a trusted adult.
+8. Do not meet with someone you met online without first telling your parents or guardian.
+9. Do not post hurtful or inappropriate messages. If someone else posts hurtful or inappropriate messages -- do not respond, but do tell a teacher, parent or other adult.
+10. Do not click on any link that you do not know, and you are not sure is legitimate.
+11. Do not enable any location services without talking to your parents or guardian.
+12. Do remember that people can lie online and say they are something they are not. Someone who says they are a 12-year-old girl could really be an older man looking to harm you.
+13. Do save messages that upset you and show them to your parents.
+
+</div>
+
+
+### Protecting personal and sensitive data
 
 Volunteers want to make sure that they're assessing and mitigating any risks to the security of users and their data. You'll want to consider the context and needs for privacy of personally identifiable information (PII) when using systems, signing users up for platforms, and design solutions.
 
@@ -94,32 +98,17 @@ A great resource is the [Ways to Practice Responsible Development Data book](htt
 
 ___
 
+
+
 # Resources and Links
 
 **To help Volunteers get started, I've collected some of the more relevant and practical guides and have them organized in the [ICT4D Shared Drive](http://bit.ly/peacecorpsict4dshareddrive) -- you can find them in the Toolkits / [Internet Safety](https://drive.google.com/folderview?id=0B3_92O4iu-M3OHI3ODBDdmlfbEk&usp=drive_web&tid=0B3_92O4iu-M3fkdpTXpKdzQ2Q2dJQWdkRElGX1dfMzlmMThPTDRSMWVEdHVkeDRwaDh2ZGs#grid) section.**
 
-- Currently, those titles include:
-	- ESOMAR Data Protection Checklist.pdf
-	- Internet Safety - Guide to Cyberbullying.pdf
-	- Internet Safety - Guide to New Media Technologies.pdf
-	- Internet Safety - Guide to Social Networking Technologies.pdf
-	- Internet Safety - Guide to Web Filtering Technologies.pdf
-	- Internet Safety Day Lesson Plans.pdf
-	- Internet safety handbook for teachers.pdf
-	- internet-safety-tips-for-children-for-parents.pdf
-	- Lockers - For Your Eyes Only.mp4
-	- Lockers - Information-for-Schools around the Sharing of Explicit Self-Generated Images.pdf
-	- MySelfie and the Wider World - Webwise Primary Anti-Cyber Bullying Teachers’ Handbook.pdf
-	- Privacy and Internet Life - Lesson Plan for Intermediate Classrooms.pdf
-	- Social-Media-in-class.pdf
-	- UNIICEF - Childrens Rights in the Digital Age.pdf
-	- Up2Us - Anti-Bullying Teachers Handbook.pdf
-	- Webwise - E-Safety-Activity-Book-for-Small-Children.pdf
-	- Webwise - Primary Teachers Handbook.pdf
+<iframe src="https://drive.google.com/embeddedfolderview?id=0B3_92O4iu-M3OHI3ODBDdmlfbEk#grid" width="800" height="600" frameborder="0"></iframe>
 
 **If you want to learn more broadly about [digital literacy](/digital-literacy/) and basic computer education, then check out the [program areas page](/digital-literacy/) for more information and links to other toolkits.**
 
-If you just want to dive right in with [Computer Lab Rules](/toolkits/computer-lab-rules/) -- then check out the [Template](/toolkits/computer-lab-rules/) I've put up, where you'll also find a [Computer Use Contract template](/toolkits/computer-lab-rules/#computer-use-contract) and a bulleted list of [Safety Tips for Children for display](/toolkits/computer-lab-rules/#internet-mobile-phones-and-texting-safety-tips-for-children).
+If you just want to dive right in with [Computer Lab Rules](/toolkits/computer-lab-rules/) -- then check out the [Template](/toolkits/computer-lab-rules/) I've put up, where you'll also find a [Computer Use Contract template](/toolkits/computer-lab-rules/#computer-use-contract).
 
 
 
@@ -170,6 +159,8 @@ If you just want to dive right in with [Computer Lab Rules](/toolkits/computer-l
 
 
 ### Privacy, and data protection
+
+- [Mozilla Advocacy](https://advocacy.mozilla.org/encrypt/social/3) -- Mozilla Foundation spotlight on encryption, journalism, and free expression.
 
 - [Community Insights on Principle 8: Address Privacy and Security](http://digitalprinciples.org/community-insights-on-principle-8-address-privacy-and-security/) -- From the Digital Principles
 

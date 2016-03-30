@@ -1,5 +1,11 @@
 ---
 title: Grants and Funding
+description: A look at various financial support to Volunteers working in ICT projects.
+section: toolkits
+layout: apps
+image: /img/logo.svg
+tags: Grants, Funding
+area: General
 ---
 
 As Peace Corps Volunteers, we embrace 'starting where you are, using what you have, and doing what you can.'[^ashe]

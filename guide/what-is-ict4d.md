@@ -12,19 +12,27 @@ This playbook is about using technological and digital tools as part of the Peac
 
 ### Defining ICT4D
 
-ICT4D is simply Information and Communication Technologies for (4) Development. As a field of study, it combines various disciplines to offer a more holistic approach to using technology for social good. ICT4D is an academic field of research and education as well as a practioners domain.
+ICT4D is simply Information and Communication Technologies for (4) Development. As a field of study, it combines various disciplines to offer a more holistic approach to using technology for social good. ICT4D is an academic field of research and education as well as a practicioners domain.
 
 One of the leading academics in ICT4D, Richard Heeks, breaks down the acronym a little further—specifically that the 'I' is related to Library and Information Sciences, the 'C' drawing from Communication Studies', the 'T' associated with Information Systems, and the 'D' referring to Development Studies.[^1]
 
 ICT4D has been a sub-field of international development since the 1990s, and has matured in parallel with the field of international development, focusing on community co-ownership and co-development, design-thinking and iteration, and on the end-user and how they can be empowered by rather than exploited by developments in technology and communication.
 
 
+<div class="note">
 
-### What does ICT4D bring to Peace Corps?
+###### What is Peace Corps' ICT4D Initiative?
 
 One thing that separates ICT4D from say, a more straightforward approach to IT interventions is the explicit focus on impact on people, and in ensuring that the primary focus of any intervention is placed squarely on the well-being of the target group.
 
-This focus on peoples lives and livelihoods is consistent with Peace Corps' approach. Regarding ICT interventions (projects and programs) through this lens demonstrates to us (at least) five reasons that Volunteers will want to think about using an ICT4D approach.
+The Peace Corps ICT4D Initiative mission is to mainstream the use of ICT4D solutions to enable Volunteers to be more effective.
+
+The Initiative itself is managed by the Overseas Programming and Support unit within Peace Corps Washington, and includes staff from the Office of Innovation. It has been an official Cross-Sector Programming Priority (CSPP) since 2012.
+
+</div>
+
+A focus on peoples lives and livelihoods is consistent with Peace Corps' approach. Regarding ICT interventions (projects and programs) through this lens demonstrates to us (at least) five reasons that Volunteers will want to think about using an ICT4D approach.
+
 
 #### 1. Improve the quality of the services Volunteers provide.
 

@@ -1,6 +1,11 @@
 ---
 title: Program Specialist Services
-permalink: program-specialist-services/
+description: Offers to post programs, staff, and Volunteers from the ICT4D team in PC/Washington.
+section: toolkits
+layout: apps
+image: /img/logo.svg
+tags: Services, Specialist
+area: General
 ---
 
 
