@@ -10,7 +10,7 @@ description: The Girls and STEM Education anchor area page as part of the Peace 
 
 ### Volunteer activities include:
 
-- They teach students critical thinking, creative capacity-building, solving real-world challenges, and promoting the value of education.</p>
+- They teach students critical thinking, creative capacity-building, solving real-world challenges, and promoting the value of education.
 - Digital literacy activities focused on girls and women.
 - Education and empowerment in STEM fields with focus on young girls.
 - Camps, clubs, and conferences engaging girls in ICT-enabled education.
