@@ -13,7 +13,7 @@ title: Anchor Areas
 <div>
 ![Digital Literacy Icon](/img/digital-literacy-icon.svg)
 
-###[Digital Literacy](/digital-literacy)
+### [Digital Literacy](/digital-literacy)
 
 Volunteers educate their communities and counterparts on the use of digital tools, mobile phones, and computers, and software.
 </div>
@@ -21,7 +21,7 @@ Volunteers educate their communities and counterparts on the use of digital tool
 <div>
 ![ICTs for Education](/img/education-icon.svg)
 
-###[ICTs for Education](/icts-for-education/)
+### [ICTs for Education](/icts-for-education/)
 
 Volunteers use ICTs to contribute to education universally and to ensure it is accessible, equitable, impactful, and sustainable.
 </div>
@@ -33,7 +33,7 @@ Volunteers use ICTs to contribute to education universally and to ensure it is a
 <div>
 ![Technology for Monitoring and Evaluation](/img/m-and-e-icon.svg)
 
-###[Technology for Monitoring and Evaluation](/technology-for-monitoring-and-evaluation/)
+### [Technology for Monitoring and Evaluation](/technology-for-monitoring-and-evaluation/)
 
 Volunteers use mobile technologies to monitor their projects, collect feedback, and evaluate their work, and scale their successes.
 </div>
@@ -45,7 +45,7 @@ Volunteers use mobile technologies to monitor their projects, collect feedback, 
 <div>
 ![Design Thinking Icon](/img/design-thinking-icon.svg)
 
-###[Design Thinking](/design-thinking/)
+### [Design Thinking](/design-thinking/)
 
 Volunteers use design thinking and promote creative capacity-building to respond to the challenges of their host communities and counterparts.
 </div>
@@ -53,7 +53,7 @@ Volunteers use design thinking and promote creative capacity-building to respond
 <div>
 ![GIS and Mapping Icon](/img/gis-icon.svg)
 
-###[GIS and Mapping](/gis-and-mapping/)
+### [GIS and Mapping](/gis-and-mapping/)
 
 Volunteers use geospatial information systems (GIS) and mapping technologies to assist in analysis, monitoring, and evaluation.
 </div>
@@ -66,7 +66,7 @@ Volunteers use geospatial information systems (GIS) and mapping technologies to 
 <div>
 ![Girls and STEM Education Icon](/img/stem-icon.svg)
 
-###[Girls and STEM Education](/girls-and-stem-education/)
+### [Girls and STEM Education](/girls-and-stem-education/)
 
 Volunteers engage and girls in STE(A)M to teach students critical thinking, creative capacity-building, and the value of education.
 </div>
@@ -74,7 +74,7 @@ Volunteers engage and girls in STE(A)M to teach students critical thinking, crea
 <div>
 ![Mobile Communications Icon](/img/mobile-icon.svg)
 
-###[Mobile Communications](/mobile-communications/)
+### [Mobile Communications](/mobile-communications/)
 
 Volunteers use mobile messaging platforms such as SMS to be more inclusive, have a broader reach, and to communicate in real-time.
 </div>
@@ -82,7 +82,7 @@ Volunteers use mobile messaging platforms such as SMS to be more inclusive, have
 <div>
 ![Radio and Mass Media Icon](/img/radio-icon.svg)
 
-###[Radio and Mass Media](/radio-and-mass-media)
+### [Radio and Mass Media](/radio-and-mass-media)
 
 Volunteers amplify the reach of their programs through broadcast media such as radio, television, and the Internet.
 </div>
@@ -95,7 +95,7 @@ Volunteers amplify the reach of their programs through broadcast media such as r
 <div>
 ![Libraries and Maker Spaces Icon](/img/libraries-icon.svg)
 
-###[Libraries and Maker Spaces](/libraries-and-maker-spaces)
+### [Libraries and Maker Spaces](/libraries-and-maker-spaces)
 
 Volunteers help to promote, build, renovate, and support local learning in their communities and to encourage skills development.
 </div>
