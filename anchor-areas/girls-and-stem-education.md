@@ -4,7 +4,7 @@ permalink: girls-and-stem-education/
 description: The Girls and STEM Education anchor area page as part of the Peace Corps ICT4D Playbook.
 ---
 
-<div class="image"><img src="/img/STEM-icon.svg" style="height:100px;"><!-- </div> -->
+<div class="image"><img src="/img/stem-icon.svg" style="height:100px;"><!-- </div> -->
 
 <p class="lead">Volunteers engage and girls in STE(A)M to teach students critical thinking, creative capacity-building, and the value of education.</p>
 
