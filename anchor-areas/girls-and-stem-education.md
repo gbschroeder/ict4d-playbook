@@ -19,7 +19,9 @@ description: The Girls and STEM Education anchor area page as part of the Peace 
 
 ___
 
-- Download the [Girls and STEM Education Infobrief](#) -- coming soon.
+[![Girls and STEM Education Infobrief](/img/ict4d-girls-and-stem-education-infobrief.png)](/docs/ict4d-girls-and-stem-education-infobrief.pdf)
+
+###### Download the [Girls and STEM Education Infobrief](/docs/ict4d-girls-and-stem-education-infobrief.pdf)
 
 ___
 
@@ -37,10 +39,9 @@ This is an area where there is a clear role for Volunteers—it aligns with a ch
 
 # Snapshot
 
-- Download the [2015 Girls and STEM Education Snapshot]()
+[![](/img/ict4d-2015-girls-and-stem-education-snapshot.png)](/docs/ict4d-2015-girls-and-stem-education-snapshot.pdf)
 
-- Snapshot trends coming soon...
-
+###### Download the [2015 Girls and STEM Education Snapshot](/docs/ict4d-2015-girls-and-stem-education-snapshot.pdf)
 
 
 # Learn More
