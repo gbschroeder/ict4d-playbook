@@ -51,6 +51,13 @@ Check out the [ICT4D Community](/community/) for links to these wonderful folks 
 
 
 
+## How can a post stay informed of ways to be included in innovative pilots around technology -- such as Kindles and e-readers, tablets, smarthpone deployments, etc.?
+
+The best way to keep track of ongoing projects are this website and the Newsletter (http://bit.ly/peacecorpsict4dnewsletter).
+
+The reality is that for the most part, technological innovations occur much more quickly at the individual post level, as the autonomy of budgets and the local tailoring of projects and programs allows for greater flexibility.
+
+From a headquarters perspective, we are absolutely trying to map out how to support various devices and pilots to suit different needs (such as M&E, data collection, reporting, etc.)
 
 
 
