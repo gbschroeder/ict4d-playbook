@@ -38,14 +38,9 @@ Design thinking isn’t simply about crafting a design solution to a user-center
 
 
 
-# Learn More
-
-
-
-
 ### Organizations
 
-- [International Development Innovation Network (IDIN)](http://www.idin.org/) -- The International Development Innovation Network (IDIN) is a program led by the [Massachusetts Institute of Technology’s D-Lab](http://d-lab.mit.edu/); implemented by a ]global consortium](http://www.idin.org/about-idin/our-consortium-partners) of academic, institutional, and innovation center partners; and a part of USAID’s Higher Education Solutions Network in the U.S. [Global Development Lab](http://www.usaid.gov/globaldevlab).
+- [International Development Innovation Network (IDIN)](http://www.idin.org/) -- The International Development Innovation Network (IDIN) is a program led by the [Massachusetts Institute of Technology’s D-Lab](http://d-lab.mit.edu/); implemented by a [global consortium](http://www.idin.org/about-idin/our-consortium-partners) of academic, institutional, and innovation center partners; and a part of USAID’s Higher Education Solutions Network in the U.S. [Global Development Lab](http://www.usaid.gov/globaldevlab).
 
 - [D-Lab - Development through Dialogue, Design and Dissemination](http://d-lab.mit.edu/) -- Founded by [Amy Smith](http://d-lab.mit.edu/people/Amy_Smith), Senior Lecturer in Mechanical Engineering, D-Lab has developed a range of technologies and processes, including community watertesting and treatment systems, human-powered agricultural processing machines, medical and assistive devices for global health, and clean-burning cooking fuels made from waste.
 
