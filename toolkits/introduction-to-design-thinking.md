@@ -12,7 +12,7 @@ For those new to design thinking, human-centered design (HCD), creative capacity
 
 I highly recommend this TED talk from Timothy Prestero (RPCV Cameroon) entitled [Design for People not Awards](http://www.ted.com/talks/timothy_prestero_design_for_people_not_awards?language=en).
 
-There are many articles that give great overviews as well, including this '[Human-Centered Design: Introduction — Prototyping: From UX to Front End](https://blog.prototypr.io/human-centered-design-introduction-db481bc0fcd6#.qas8iw3v2) on Medium.
+There are many articles that give great overviews as well, including this '[Human-Centered Design: Introduction — Prototyping: From UX to Front End](https://blog.prototypr.io/human-centered-design-introduction-db481bc0fcd6#.qas8iw3v2) on Medium, as well as this one -- [It’s an approach, not a process — Prototyping: From UX to Front End](https://blog.prototypr.io/1-design-thinking-its-an-approach-not-a-process-fbdc339bf936#.urz5ybbkv).
 
 [Peace Corps & Product Management — Medium](https://medium.com/@lenaeCb/peace-corps-product-management-1d5fda27e6aa#.92swplbdy) -- Great article from a recent PCV connecting her experience to human-centered design in her community.
 
