@@ -4,13 +4,13 @@ title: Glossary
 
 ### API
 
-Application Programming Interface. For data, this is usually a way provided by the data [publisher](http://opendatahandbook.org/glossary/en/terms/publisher/)for programs or [apps](http://opendatahandbook.org/glossary/en/terms/app-application/) to read data directly over the [web](http://opendatahandbook.org/glossary/en/terms/web/). The app sends the API a [query](http://opendatahandbook.org/glossary/en/terms/query/) asking for the specific data it needs, e.g. the time of the next bus leaving a particular stop. This allows the app to use the data without downloading the whole dataset, saving [bandwidth](http://opendatahandbook.org/glossary/en/terms/bandwidth/) and ensuring that the data used is the most up-to-date available. [source](http://opendatahandbook.org/glossary/en/)
+Application Programming Interface. For data, this is usually a way provided by the data [publisher](http://opendatahandbook.org/glossary/en/terms/publisher/) for programs or [apps](http://opendatahandbook.org/glossary/en/terms/app-application/) to read data directly over the [web](http://opendatahandbook.org/glossary/en/terms/web/). The app sends the API a [query](http://opendatahandbook.org/glossary/en/terms/query/) asking for the specific data it needs, e.g. the time of the next bus leaving a particular stop. This allows the app to use the data without downloading the whole dataset, saving [bandwidth](http://opendatahandbook.org/glossary/en/terms/bandwidth/) and ensuring that the data used is the most up-to-date available. [source](http://opendatahandbook.org/glossary/en/)
 
 
 
 ### Anonymization
 
-Processing data that includes personal information so that individuals can no longer be identified in the resulting data. Anonymisation enables data to be published without breaching[data protection](http://opendatahandbook.org/glossary/en/terms/data-protection-legislation/) principles. The principal techniques are aggregation and [de-identification](http://opendatahandbook.org/glossary/en/terms/de-identification/). Care must be taken to avoid [data leakage](http://opendatahandbook.org/glossary/en/terms/data-leakage/) that would result in individuals’ [privacy](http://opendatahandbook.org/glossary/en/terms/privacy/) being compromised. UKAN studies best practice in data anonymisation. [source](http://opendatahandbook.org/glossary/en/)
+Processing data that includes personal information so that individuals can no longer be identified in the resulting data. Anonymisation enables data to be published without breaching [data protection](http://opendatahandbook.org/glossary/en/terms/data-protection-legislation/) principles. The principal techniques are aggregation and [de-identification](http://opendatahandbook.org/glossary/en/terms/de-identification/). Care must be taken to avoid [data leakage](http://opendatahandbook.org/glossary/en/terms/data-leakage/) that would result in individuals’ [privacy](http://opendatahandbook.org/glossary/en/terms/privacy/) being compromised. UKAN studies best practice in data anonymisation. [source](http://opendatahandbook.org/glossary/en/)
 
 
 
