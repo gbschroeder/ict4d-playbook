@@ -4,7 +4,7 @@ title: ICT4D for Peace Corps Staff
 
 This entire Playbook is built with staff in mind.
 
-Peace Corps staff should be able to quickly browse, search for, and find relevant information and tools to do their jobs -- whatevery they may be.
+Peace Corps staff should be able to quickly browse, search for, and find relevant information and tools to do their jobs -- whatever they may be.
 
 
 
@@ -27,9 +27,9 @@ These CSPPs were [created by Executive Order](/img/initiatives-signed-memo-2012.
 
 ## Why ICT4D is a CSPP
 
-At a fundamental level, ICT4D is an enabling lens -- it allows the work of our Volunteers and their counterpart communities to be more impactful, sustainable, to communicate more effectively, and to be all-around better Volunteers in their service.
+At a fundamental level, ICT4D is an enabling lens -- it allows the work of our Volunteers and their counterpart communities to be more impactful and sustainable, to communicate more effectively, and to be all-around better Volunteers in their service.
 
-The already-cross-cutting nature of ICT4D requires that it is understand as both broad and quite flexible, depending on the circumstances. Some posts might focus exclusively on geospatial information systems (GIS) as part of their project frameworks, while others focus on STEM and digital literacy for young girls' education. Both of these are considered ICT4D efforts, and do not need to necessarily overlap in significant ways.
+The already-cross-cutting nature of ICT4D requires that it is understood as both broad and quite flexible, depending on the circumstances. Some posts might focus exclusively on geospatial information systems (GIS) as part of their project frameworks, while others focus on STEM and digital literacy for young girls' education. Both of these are considered ICT4D efforts, and do not need to necessarily overlap in significant ways.
 
 It is difficult to find Volunteer projects in 2016 that do *not* leverage innovative approaches to how information, communication, technologies, data, and reporting play a role.
 
