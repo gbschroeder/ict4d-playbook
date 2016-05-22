@@ -51,7 +51,7 @@ As you can see, it's not simply about putting phones in the hands of Volunteers 
 
 Rather, the ICT4D Initiative began with the simple mandate to help Volunteers to be more effective. There were really four areas that kept coming up time and time again as objectives for what the Initiative could offer to Peace Corps were it supported (spoiler alert—it was):
 
-- Provide a sounding board for ideas, trends, and research that are ocurring in ICT4D and that can be applied to Volunteers.
+- Provide a sounding board for ideas, trends, and research that are occurring in ICT4D and that can be applied to Volunteers.
 - Get a sense for what Volunteers are doing in the field and how to address their challenges and needs more routinely, efficiently, and from a wider scope.
 - Ensure that lines of communication, protocol, and policies are clear and effective.
 - Work to make ICT4D a global priority that helps Peace Corps achieve its strategic goals.
@@ -64,13 +64,13 @@ Thinking through these lenses of ICT4D will help Peace Corps to train our Volunt
 
 Peace Corps Volunteers are able to have the most impact when they operate at the intersection of national priorities and resources, community priorities and assets, and the Volunteers’ own knowledge, skills, and attitudes.
 
-Recognizing that particular roles and projects are going to be more easily accessible and achievable by Volunteers is key to the Peace Corps having the as much an impact as possible.
+Recognizing that particular roles and projects are going to be more easily accessible and achievable by Volunteers is key to the Peace Corps having as much of an impact as possible.
 
 </div>
 
 ## Layers to support ICT4D globally
 
-Merging the goals of ICT4D for Volunteers, the mandate for the ICT4D Initiative, and the Peace Corps Niche allows us to hone on the four essential layers that support staff and Volunteers in their ICT4D efforts:
+Merging the goals of ICT4D for Volunteers, the mandate for the ICT4D Initiative, and the Peace Corps Niche allows us to hone in on the four essential layers that support staff and Volunteers in their ICT4D efforts:
 
 - **Knowledge**: Peace Corps is managing our in-house expertise and ICT4D talent to support retention, learning, knowledge exchange, and technical assistance.
 - **Portfolio**: We are assembling and organizing a  portfolio of field-proven ICT4D solutions that can be quickly and easily adapted to the need of individual projects and communities, scaled, and sustained over time.
@@ -87,7 +87,7 @@ ___
 
 We now have the vision, the goals, and the layers of support (resources and assets) to work out the broad objectives and how we arrive there. While the objectives and activities here are not something that Volunteers nor staff need to necessarily have memorized, they are provided here for the sake of full transparency, but also importantly to see how objectives are inter-connected and leverage one another. The critical value of ICT4D efforts are that they serve as catalysts for so many other points of intervention—that to isolate them into a single area or channel is to dilute them.
 
-The goals are the three items in bold (with descriptions below); the objectives numbered within the goals, and the activities are the individual bullet points (with Specialist, staff, or Volunteer as the lead in paranthesis).
+The goals are the three items in bold (with descriptions below); the objectives numbered within the goals, and the activities are the individual bullet points (with Specialist, Staff, or Volunteer as the lead in parentheses).
 
 ## Empower individuals in narrowing the digital divide
 
